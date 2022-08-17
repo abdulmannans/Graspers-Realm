@@ -1,4 +1,4 @@
-public class Assignment1 {
+public class abdulmannans_Assignment1 {
     public static String addArray(int [] numbersArray){
         if(numbersArray.length < 4){
             return "Invalid Array";
