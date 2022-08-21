@@ -1,6 +1,6 @@
 public class Huzaifsk_Assignment_1 {
     public static void main(String[] args) {
-        int[] forArrayOne = new int[]{1, 2, 3, 6, 6};
+        int[] forArrayOne = new int[]{1, 2, 3};
         int[] forArrayTwo = new int[]{1, 2, 3, 4, 5};
         checkArrayOne(forArrayOne);
         checkArrayTwo(forArrayTwo);
